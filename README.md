@@ -1,4 +1,6 @@
-# automationTesting
-Some automation testcases ran on pcgarage.ro using selenium webdriver, jBehave stories and allure reporter
+#Automating testcases using Selenium Webdriver with JBehave Stories and Allure Reporter
 
-use "maven clen verify" to run all the testcases. To see the generated reports navigate to target folder and run "allure serve" or "allure generate"
+Some automation testcases ran on https://pcgarage.ro/ using selenium webdriver, JBehave stories and Allure reporter
+
+- Use "maven clen verify" to run all the testcases from Maven. 
+- To see the generated reports, navigate to the target folder and run "allure serve" or "allure generate command
